@@ -1,0 +1,2 @@
+cd ..
+node lib/index.js --set-appointment

@@ -1,0 +1,19 @@
+{
+  "name": "polyticket-nodejs",
+  "version": "0.0.1",
+  "description": "NodeJS application for checking tickets of St. Petersburg polyclinics",
+  "license": "MIT",
+  "private": false,
+  "author": "Artem Kovalev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kovaloid/polyticket-nodejs"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "nodemailer": "4.6.8",
+    "properties-reader": "0.0.16"
+  }
+}

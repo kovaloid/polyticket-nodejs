@@ -1,0 +1,8 @@
+clinic.id:
+    193
+doctor.id:
+    23    infectious disease doctor
+    78    therapist
+    84    urologist
+    89    surgeon
+    1453  endocrinologist
